@@ -1,7 +1,7 @@
 //All Basic codes
 
 //Bubblesort
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 int main()
 {
@@ -195,6 +195,8 @@ int main()
     r.Ratiox();
     return 0;
 }
+
+//Type conversion
 #include<iostream>
 #include<math.h>
 using namespace std;
@@ -240,6 +242,7 @@ int main()
     p.show();
     return 0;
 }
+
 //virtual function
 #include<iostream>
 using namespace std;
@@ -287,4 +290,4 @@ int main()
     p->insert();
     p->print();
     return 0;
-}*/
+}
